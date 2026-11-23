@@ -1,0 +1,6 @@
+2026-01-01 INFO service started
+2026-01-01 ERROR database connection timeout
+2026-01-01 INFO retrying
+2026-01-01 ERROR database connection timeout
+2026-01-01 WARN slow request
+2026-01-01 ERROR invalid payload
